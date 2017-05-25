@@ -1,0 +1,6 @@
+// github account name is wingkee98/RESTFull-route
+
+
+// to create a new git repro 
+git config --global user.name "wingkee98"
+git config --global user.email "wingkee98@yahoo.com"
